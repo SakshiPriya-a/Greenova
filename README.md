@@ -1,4 +1,4 @@
-# 🌿 Greenova – EcoLifestyle AI Agent
+# 🌿🌱 Greenova – EcoLifestyle AI Agent
 Greenova is an AI-powered EcoLifestyle Assistant that empowers users to make environmentally conscious decisions by providing practical, real-time suggestions sourced from trusted data. Designed to simplify sustainable living, Greenova answers everyday eco-related questions, encourages green habits, and promotes small changes that lead to a big environmental impact.
 
 # 📝 Table of Contents: 
@@ -16,6 +16,11 @@ Greenova is an AI-powered EcoLifestyle Assistant that empowers users to make env
 🚀 Project Workflow
 
 📊 Results
+
+📌 Future Enhancements
+
+📷 Screenshot 
+
 
 # 👩‍💻 Project Creator
 Name: Sakshi Priya
