@@ -54,6 +54,12 @@ AI Architecture: Retrieval-Augmented Generation (RAG)
 - AI Tools: Watson Assistant, Watson Discovery, IBM Machine Learning
 
 - Use of IBM Cloud Lite services / IBM Granite is mandatory.
+- 
+- Platform: IBM watsonx.ai Agent Lab
+
+ -Model: Llama-3-70b-instruct
+
+ -Agent Type: Eco Lifestyle AI assistant
 
 # 🚀 Project Workflow
 User Query: User asks a question like “How can I reduce food waste?”
@@ -74,6 +80,17 @@ Deployment: Hosted on IBM Cloud with an exposed REST API for future integration
 📉 Promoted reduction in plastic, water, and energy usage (based on user simulations)
 
 📢 Increased environmental awareness and daily green habit adoption
+
+
+## 📌 Future Enhancements  
+- 🌱 Add **voice assistant support**.  
+- 📊 Provide **personalized eco-goals tracking**.  
+- 🔗 Integrate with **IoT-enabled smart homes** for sustainable living suggestions.
+
+ # 💚 *Let’s build a greener tomorrow, one step at a time!*  
+
+  
+## 📷 Screenshot 
 
 <img width="1916" height="868" alt="Screenshot 2025-08-08 171501" src="https://github.com/user-attachments/assets/c0426417-310e-4155-a442-251cff09cc82" />
 
